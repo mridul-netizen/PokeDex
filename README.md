@@ -1,4 +1,5 @@
 # pokedex
+![alt text](https://img.rankedboost.com/wp-content/uploads/2017/09/Pokemon-GO-GEN-4-Pokedex.png)
 An image classification tool for predicting the type of pokemon provided to it
 PROJECT POKEDEX
 Machine learning and deep learning plays an important role in computer technology and artificial intelligence. With the use of deep learning and machine learning, human effort can be reduced in recognizing, learning, predictions and many more areas. This article presents recognizing the Pokémon’s from the dataset, convolution neural network on basis of performance, accuracy, time, and specificity.
